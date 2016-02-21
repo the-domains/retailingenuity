@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[retailingenuity]]></title>
         <description><![CDATA[retailingenuity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/retailingenuity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 18:09:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 18:10:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/retailingenuity/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0403b79-3f78-49a3-9bf4-f62ac4b9456b.png">]]></description>
-            <link>undefined3cb41312-a236-42f9-88a1-26840876c2a5/index.html</link>
+            <link>https://thegrid.ai/retailingenuity/3cb41312-a236-42f9-88a1-26840876c2a5/index.html</link>
             <guid isPermaLink="false">3cb41312-a236-42f9-88a1-26840876c2a5</guid>
-            <pubDate>Sun, 21 Feb 2016 18:08:49 GMT</pubDate>
+            <pubDate>Sun, 21 Feb 2016 18:10:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
